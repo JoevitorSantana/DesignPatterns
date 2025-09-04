@@ -1,0 +1,7 @@
+C:\Users\Joevitor\Projects\DesignPatternsC#\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Joevitor\Projects\DesignPatternsC#\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Joevitor\Projects\DesignPatternsC#\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Joevitor\Projects\DesignPatternsC#\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Joevitor\Projects\DesignPatternsC#\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Joevitor\Projects\DesignPatternsC#\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Joevitor\Projects\DesignPatternsC#\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
