@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\joevitor\\projects\\factorymethod\\factorymethod\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\joevitor\\projects\\factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\joevitor\\projects\\factorymethod\\factorymethod\\subzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\subzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\joevitor\\projects\\factorymethod\\factorymethod\\scorpion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\scorpion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\joevitor\\projects\\factorymethod\\factorymethod\\liukang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\liukang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\joevitor\\projects\\factorymethod\\factorymethod\\ipersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07658F65-6F30-4654-9546-C9BEAEEC0B82}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\ipersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactoryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\FactoryMethod.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\FactoryMethod.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\FactoryMethod.cs",
+              "RelativeToolTip": "FactoryMethod\\FactoryMethod.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:14:04.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubZero.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\SubZero.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\SubZero.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\SubZero.cs",
+              "RelativeToolTip": "FactoryMethod\\SubZero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:12:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scorpion.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\Scorpion.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Scorpion.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\Scorpion.cs",
+              "RelativeToolTip": "FactoryMethod\\Scorpion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:12:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LiuKang.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\LiuKang.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\LiuKang.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\LiuKang.cs",
+              "RelativeToolTip": "FactoryMethod\\LiuKang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:10:45.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonagem.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\IPersonagem.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\IPersonagem.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\IPersonagem.cs",
+              "RelativeToolTip": "FactoryMethod\\IPersonagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:10:04.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "FactoryMethod\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:09:02.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
