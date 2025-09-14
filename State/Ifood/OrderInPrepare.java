@@ -8,7 +8,7 @@ public class OrderInPrepare implements OrderState
     public void deliver(Order order)
     {
         System.out.println("Order is being delivered.");
-        order.setState(new OrderInDeliver());
+        order.setState(new OrderInDelivery());
     }
 
     public void complete(Order order)
